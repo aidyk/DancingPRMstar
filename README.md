@@ -26,5 +26,6 @@ downloaded v_repExtOMPL.
 4. Run V-REP and check the console ouptut to make sure that all the library files are successfully loaded.
 
 5. Open example_scene.ttt in V-REP and Run!
+![img](https://github.com/aidyk/DancingPRMstar/blob/master/example_screenshot.png)
 
 If you have any problem with installation or following the above steps, feel free to mail me or leave a comment.
