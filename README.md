@@ -7,7 +7,7 @@ How to run
 Installation tips:
 - OMPL(Open Motion Planning Library, https://ompl.kavrakilab.org/, tested on 1.1.0)
 - V-REP(http://www.coppeliarobotics.com/, tested on 3.2.2 EDU)
-- It is based on Lazy PRM\*(Lazy Collision Checking in Asymptotically-Optimal Motion Planning, Kris Hauser, 2015) with my own implemenetation of DSPT(Dynamic Shortest Path Tree, 
+- It is based on Lazy PRM\*(Lazy Collision Checking in Asymptotically-Optimal Motion Planning, Kris Hauser, 2015) with my own implemenetation of DSPT(Fully dynamic algorithms for maintaining shortest paths trees, D. Frigioni, Journal of Algoritms, 2000).
 - Trajectory optimizer is not provided in this version. Please refer to the corresponding source code
 for the implementation tip. You can use uBLAS or Eigen library for linear algebra computation; this version
 is Eigen-friendly though.
