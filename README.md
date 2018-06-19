@@ -1,7 +1,7 @@
 # DancingPRMstar
 
 An implementation of DancingPRMstar. Current version requires a lot of effort to refine the overall performance / readability also
-might have lots of bug. Please enjoy it as an underdeveoped implementation.
+might have lots of bugs. Please enjoy it as an underdeveoped implementation.
 
 How to run
 Installation tips:
